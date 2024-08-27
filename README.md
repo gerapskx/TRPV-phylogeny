@@ -1,2 +1,2 @@
 # TRP-V-phylogeny
-This Repository contains FASTA file, newick file and R script to make, export and display the TRP-V phylogeny of Drosophila, _C. elegans_, Zebrafish, Xenopus, Chicken, Mouse, Humans
+This repository contains a FASTA file, a Newick file and an R script to create, export, and display the TRP-V phylogeny of Drosophila, _C. elegans_, Zebrafish, Xenopus, Chicken, Mouse, and Humans
