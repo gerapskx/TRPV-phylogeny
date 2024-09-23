@@ -1,7 +1,4 @@
 ###TRP-V phylogeny###
-
-###Libraries to use####
-
 library(ape)
 
 TRP_V_tree <- ape::read.tree("TRP_V_Phylogeny_Newick")
