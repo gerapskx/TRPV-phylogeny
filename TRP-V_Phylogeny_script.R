@@ -3,7 +3,7 @@ library(ape)
 
 TRP_V_tree <- ape::read.tree("TRP_V_Phylogeny_Newick")
 
-dendogramTRPV <- chronos(TRPVtree)
+dendogramTRPV <- chronos(TRP_V_tree)
 
 is.ultrametric(dendogramTRPV)
 
